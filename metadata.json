@@ -1,0 +1,6 @@
+{
+  "name": "Go Fabrics Karimnagar - Sarees, Half-Sarees & Fabrics",
+  "description": "Karimnagar's premier boutique for semi-stitched half-saree sets, kids half-sarees, fancy sarees, and handloom fabrics. Order via WhatsApp or book a store visit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
